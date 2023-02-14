@@ -7,7 +7,7 @@ Best Practices of Spell Design by Jeremy Kubica
 We ended up with functioning, but ill-designed, poorly formatted, and unreadable code:
 - design collapse: employee pay type is controlled by and integer flag and handled by an if-else ladder in payroll rather than being a designed in a good and extensible way
 - we eliminated most of the use of subspells (functions in our code)
-- we elmininated ALL non-mandator spacing in our code:
+- we elmininated ALL non-mandatory spacing in our code:
   - linebreaks
   - spacing around operators
   - indentations
